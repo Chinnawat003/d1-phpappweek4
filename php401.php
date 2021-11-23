@@ -1,5 +1,3 @@
 <?php
 
-    echo "Hello week4"
-
-?>
+    echo "Hello week4";
